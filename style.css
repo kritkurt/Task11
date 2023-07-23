@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+
+ &_text{
+        justify-content: flex-start;
+        align-items: flex-start;
+        font-size: 40px;
+        
+    }
+  &_img{
+    justify-content: flex-start;
+        align-items: flex-start;
+        width: 39px;
+  }
+}
